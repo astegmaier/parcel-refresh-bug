@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Parcel Serve",
+      "type": "pwa-node",
+      "program": "${workspaceFolder}/node_modules/.bin/parcel",
+      "args": ["src/index.html"],
+      "request": "launch",
+      "internalConsoleOptions": "openOnSessionStart",
+      "cwd": "${workspaceFolder}",
+      "skipFiles": ["<node_internals>/**"],
+
+    }
+  ]
+}

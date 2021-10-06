@@ -1,3 +1,3 @@
 function showAlert() {
-  alert("Here is a message from alert1");
+  alert("Here is a message from the showAlert function!");
 }

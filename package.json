@@ -1,5 +1,5 @@
 {
-  "name": "parcel-hmr-test",
+  "name": "parcel-refresh-bug",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,6 @@
   "devDependencies": {
     "http-server": "^13.0.2",
     "parcel": "2.0.0-nightly.859",
-    "rimraf": "^3.0.2",
-    "typescript": "^4.4.3"
+    "rimraf": "^3.0.2"
   }
 }
